@@ -3,3 +3,5 @@ ari.egg-info
 dist
 build
 .idea
+ari/__pycache__/
+tests/__pycache__/
