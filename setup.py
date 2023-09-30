@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     name="ari",
-    version="0.1",
+    version="0.1.4",
     license="MIT",
     description="Library for accessing the Asterisk REST Interface",
     author="Jorge Sisco",
