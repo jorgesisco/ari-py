@@ -22,5 +22,6 @@ setup(
         "Programming Language :: Python",
     ],
     tests_require=["coverage", "httpretty", "nose", "tissue"],
-    install_requires=["swaggerpy"],
+    install_requires=["httpretty",
+                      "swaggerpy @ git+https://github.com/jorgesisco/swagger-py.git@main"],
 )
